@@ -8,7 +8,7 @@
 	<name>Hockey Kit Client</name>
 	
 	<parent>
-		<groupId>net.hockeyapp.android</groupId>
+		<groupId>net.hockeykit.android</groupId>
 		<artifactId>parent</artifactId>
 		<version>1.0.0</version>
 	</parent>
