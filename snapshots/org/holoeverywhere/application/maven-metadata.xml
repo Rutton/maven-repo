@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.holoeverywhere</groupId>
+  <artifactId>application</artifactId>
+  <versioning>
+    <versions>
+      <version>1.5.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130509122530</lastUpdated>
+  </versioning>
+</metadata>
