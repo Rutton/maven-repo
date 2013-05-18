@@ -17,7 +17,7 @@
 				<executions>
 					<execution>
 						<id>install-basic-jar</id>
-						<phase>install</phase>
+						<phase>deploy</phase>
 						<goals>
 							<goal>install-file</goal>
 						</goals>
@@ -33,7 +33,7 @@
 
 					<execution>
 						<id>install-jar</id>
-						<phase>install</phase>
+						<phase>deploy</phase>
 						<goals>
 							<goal>install-file</goal>
 						</goals>
